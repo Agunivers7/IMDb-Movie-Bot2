@@ -76,7 +76,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Agunivers7/IMDb-Movie-Bot
+git clone https://github.com/Agunivers7/IMDb-Movie-Bot99
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
