@@ -3,5 +3,7 @@ git clone -b master https://github.com/Agunivers7/IMDb-Movie-Bot99.git /IMDb-Mov
 cd /IMDb-Movie-Bot99
 echo "Installing Requirements..."
 pip3 install -U -r requirements.txt
+pip show asyncio
+pip install --upgrade asyncio
 echo "Starting Bot, Please Wait..."
 python3 bot.py
